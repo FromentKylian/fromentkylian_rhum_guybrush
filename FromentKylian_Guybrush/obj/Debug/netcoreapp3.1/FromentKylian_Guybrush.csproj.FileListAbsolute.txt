@@ -1,0 +1,13 @@
+C:\Users\kylou\Desktop\Guybrush\FromentKylian_Guybrush\FromentKylian_Guybrush\bin\Debug\netcoreapp3.1\FromentKylian_Guybrush.exe
+C:\Users\kylou\Desktop\Guybrush\FromentKylian_Guybrush\FromentKylian_Guybrush\bin\Debug\netcoreapp3.1\FromentKylian_Guybrush.deps.json
+C:\Users\kylou\Desktop\Guybrush\FromentKylian_Guybrush\FromentKylian_Guybrush\bin\Debug\netcoreapp3.1\FromentKylian_Guybrush.runtimeconfig.json
+C:\Users\kylou\Desktop\Guybrush\FromentKylian_Guybrush\FromentKylian_Guybrush\bin\Debug\netcoreapp3.1\FromentKylian_Guybrush.runtimeconfig.dev.json
+C:\Users\kylou\Desktop\Guybrush\FromentKylian_Guybrush\FromentKylian_Guybrush\bin\Debug\netcoreapp3.1\FromentKylian_Guybrush.dll
+C:\Users\kylou\Desktop\Guybrush\FromentKylian_Guybrush\FromentKylian_Guybrush\bin\Debug\netcoreapp3.1\FromentKylian_Guybrush.pdb
+C:\Users\kylou\Desktop\Guybrush\FromentKylian_Guybrush\FromentKylian_Guybrush\obj\Debug\netcoreapp3.1\FromentKylian_Guybrush.csprojAssemblyReference.cache
+C:\Users\kylou\Desktop\Guybrush\FromentKylian_Guybrush\FromentKylian_Guybrush\obj\Debug\netcoreapp3.1\FromentKylian_Guybrush.AssemblyInfoInputs.cache
+C:\Users\kylou\Desktop\Guybrush\FromentKylian_Guybrush\FromentKylian_Guybrush\obj\Debug\netcoreapp3.1\FromentKylian_Guybrush.AssemblyInfo.cs
+C:\Users\kylou\Desktop\Guybrush\FromentKylian_Guybrush\FromentKylian_Guybrush\obj\Debug\netcoreapp3.1\FromentKylian_Guybrush.csproj.CoreCompileInputs.cache
+C:\Users\kylou\Desktop\Guybrush\FromentKylian_Guybrush\FromentKylian_Guybrush\obj\Debug\netcoreapp3.1\FromentKylian_Guybrush.dll
+C:\Users\kylou\Desktop\Guybrush\FromentKylian_Guybrush\FromentKylian_Guybrush\obj\Debug\netcoreapp3.1\FromentKylian_Guybrush.pdb
+C:\Users\kylou\Desktop\Guybrush\FromentKylian_Guybrush\FromentKylian_Guybrush\obj\Debug\netcoreapp3.1\FromentKylian_Guybrush.genruntimeconfig.cache

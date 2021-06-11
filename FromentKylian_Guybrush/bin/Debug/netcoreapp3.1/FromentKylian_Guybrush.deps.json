@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FromentKylian_Guybrush/1.0.0": {
+        "runtime": {
+          "FromentKylian_Guybrush.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FromentKylian_Guybrush/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
